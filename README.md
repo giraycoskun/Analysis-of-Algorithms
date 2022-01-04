@@ -1,4 +1,4 @@
-# My Notes on Analysis of Algorithms course from Coursera
+# My Notes on Analysis of Algorithms course from Coursera by Princeton University
 
 Giray Coşkun - giraycoskun@sabanciuniv.edu
 
@@ -8,9 +8,9 @@ Giray Coşkun - giraycoskun@sabanciuniv.edu
 
 ---
 
-## Week 1
+## Notes
 
-- ./Week_1.ipynb
+- [Week 1](https://github.com/giraycoskun/Analysis-of-Algorithms/blob/main/Week_1.ipynb) ([look at NB-Viewer](https://nbviewer.org/github/giraycoskun/Analysis-of-Algorithms/blob/main/Week_1.ipynb))
 
 
 ## Resources
